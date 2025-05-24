@@ -24,4 +24,3 @@ elif score==-1:
 else:
     print ("you won")  
 
-# simple gaame 
