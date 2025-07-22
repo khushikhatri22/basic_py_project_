@@ -1,0 +1,46 @@
+h1{
+    font-style:italic ;
+    font-family:Billabong,'Great Vibes', cursive;
+    margin-top: 150px;
+    font-weight:1000;
+}
+
+.maain{
+    text-align: center;
+}
+.id{
+    margin-top: 50px; 
+   
+}
+
+.pass{
+    margin-top:20px;
+    }
+
+.log{
+    margin-top:20px ;
+}
+
+.fb{
+    margin-top: 20px;
+}
+
+button{
+    width: 300px;
+    height: 40px;
+   background-color: #338fe5;
+   border-radius: 7%;
+}
+
+.p2{
+    margin-top: 150px;
+}
+
+input {
+  width: 300px; 
+  height: 30px;
+}
+
+.fog{
+    height: 10px;
+}
